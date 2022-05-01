@@ -9,7 +9,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -222,3 +223,5 @@ cython_debug/
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,python
+
+out/
